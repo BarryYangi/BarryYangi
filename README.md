@@ -13,7 +13,8 @@
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
  
 - <a href="https://blog.yct.ee/"><img height="25" width="25" src="https://blog.yct.ee/medias/favicon.webp"></a>：个人博客，欢迎访问~
-- <a href="./images/digu.png"><img height="25" width="25" src="https://blog.yct.ee/medias/favicon.webp"></a>：嘀咕日记，欢迎访问~
+
+- <a href="https://easyimage.smitten.top/i/2023/02/20/kcl9tz-0.png"><img height="25" width="25" src="https://blog.yct.ee/medias/favicon.webp"></a>：嘀咕日记，欢迎访问~
 
 
 ### 技术栈
