@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 <img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
@@ -12,7 +12,6 @@
 
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
  
-- <a href="https://www.yct.ee/"><img height="25" width="25" src="https://www.yct.ee/images/icon/logo.png"></a>：个人主页，欢迎访问~
 - <a href="https://blog.yct.ee/"><img height="25" width="25" src="https://blog.yct.ee/medias/favicon.webp"></a>：个人博客，欢迎访问~
 - <a href="https://easyimage.smitten.top/i/2023/02/20/kcl9tz-0.png"><img height="25" width="25" src="https://blog.yct.ee/medias/favicon.webp"></a>：嘀咕日记，欢迎访问~
 
