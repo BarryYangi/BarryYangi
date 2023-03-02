@@ -4,7 +4,7 @@
 
 <img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
 
-## 一只低调的Barry👻
+## 一只低调的Barry👻![](https://visitor-badge.glitch.me/badge?page_id=BarryYangi.BarryYangi)
 
 一个计科在读大学生，对网络安全、前端开发比较感兴趣，欢迎光临我的Github首页！🍧🍧🍧
 
