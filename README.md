@@ -27,8 +27,9 @@
 
 
 ### 编程语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarryYangi&langs_count=6&theme=tokyonight)
 <div><img align="right" alt="GIF" src="./images/cat.gif" width="300" height="300" /></div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarryYangi&langs_count=6&theme=tokyonight)
 
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=BarryYangi&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
