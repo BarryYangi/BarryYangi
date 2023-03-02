@@ -36,4 +36,4 @@
 ### Github 贡献图
 [![BarryYangi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BarryYangi&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div><img align="center" alt="GIF" src="https://easyimage.smitten.top/i/2023/03/02/12dlomv.gif" width="100%" height="100%" /></div>
+<div><img align="center" alt="GIF" src="https://easyimage.smitten.top/i/2023/03/02/12mcsde.webp" width="100%" height="100%" /></div>
