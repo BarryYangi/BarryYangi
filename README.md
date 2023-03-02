@@ -5,7 +5,6 @@
 <img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
 
 ## 一只低调的Barry👻
-![](https://visitor-badge.glitch.me/badge?page_id=BarryYangi.BarryYangi)
 一个计科在读大学生，对网络安全、前端开发比较感兴趣，欢迎光临我的Github首页！🍧🍧🍧
 
 ### 社交主页
@@ -15,7 +14,7 @@
 - <a href="https://www.yct.ee/"><img height="25" width="25" src="https://easyimage.smitten.top/i/2023/03/02/zk3c6o-0.png"></a>：个人主页，欢迎访问~
 - <a href="https://blog.yct.ee/"><img height="25" width="25" src="https://blog.yct.ee/medias/favicon.webp"></a>：个人博客，欢迎访问~
 - <a href="https://digu.yct.ee/"><img height="25" width="25" src="https://easyimage.smitten.top/i/2023/02/20/kcl9tz-0.png"></a>：嘀咕日记，欢迎访问~
-
+![](https://visitor-badge.glitch.me/badge?page_id=BarryYangi.BarryYangi)
 
 ### 技术栈
 <a href="https://github.com/openjdk/jdk"><img height="30" src="./images/Java.jpeg"></a>
