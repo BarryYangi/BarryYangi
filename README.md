@@ -27,7 +27,7 @@
 
 
 ### 编程语言
-<div><img align="right" alt="GIF" src="./images/cat.gif" width="300" height="300" /></div>
+<div><img align="right" src="https://netease-recent-profile.vercel.app/?id=104990211&show_percent=1&size=60"/></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarryYangi&langs_count=6&theme=tokyonight)
 
