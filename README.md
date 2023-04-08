@@ -35,7 +35,11 @@
 [![](https://activity-graph.herokuapp.com/graph?username=BarryYangi&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![BarryYangi's github stats](https://github-readme-stats.vercel.app/api?username=BarryYangi&show_icons=true&theme=tokyonight)
 
-### Github 贡献图
+<!-- ### Github 贡献图
 [![BarryYangi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BarryYangi&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div><img align="center" alt="GIF" src="./images/z.gif" width="100%" height="100%" /></div>
+<div><img align="center" alt="GIF" src="./images/z.gif" width="100%" height="100%" /></div> -->
+### 最近在玩
+ <!-- steam-box start -->
+ <!-- steam-box end -->
+ 
