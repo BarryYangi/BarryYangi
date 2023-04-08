@@ -41,5 +41,14 @@
 <div><img align="center" alt="GIF" src="./images/z.gif" width="100%" height="100%" /></div> -->
 ### 最近在玩
  <!-- steam-box start -->
- <!-- steam-box end -->
+#### <a href="https://gist.github.com/cebcc375aaa7333babf64dc321d27933" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🎮 Apex Legends                     🕘 787 hrs 2 mins
+🍳 PUBG: BATTLEGROUNDS              🕘 269 hrs 30 mins
+🎮 KovaaK's                         🕘 67 hrs 5 mins
+🎮 Forza Horizon 5                  🕘 57 hrs 39 mins
+🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 48 hrs 58 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
  
