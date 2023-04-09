@@ -39,10 +39,6 @@
 [![BarryYangi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BarryYangi&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div><img align="center" alt="GIF" src="./images/z.gif" width="100%" height="100%" /></div> -->
-### 最近Coding
- <!-- waka-box start -->
- <!-- waka-box end -->
-
 ### 最近在玩
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/cebcc375aaa7333babf64dc321d27933" target="_blank">🎮 Steam playtime leaderboard</a>
