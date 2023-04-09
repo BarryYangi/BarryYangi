@@ -10,7 +10,7 @@
 ### 社交主页
 
 <div><img align="right" alt="GIF" src="https://s1.xptou.com/2022/09/12/631f3e79ece3d.webp" width="300" height="100%" /></div>
- 
+
 - <a href="https://www.yct.ee/"><img height="25" width="25" src="https://easyimage.smitten.top/i/2023/03/02/zk3c6o-0.png"></a>：个人主页，欢迎访问~
 - <a href="https://www.barryi.me/"><img height="25" width="25" src="https://blog.yct.ee/medias/favicon.webp"></a>：个人博客，欢迎访问~
 - <a href="https://digu.yct.ee/"><img height="25" width="25" src="https://easyimage.smitten.top/i/2023/02/20/kcl9tz-0.png"></a>：嘀咕日记，欢迎访问~
@@ -39,16 +39,9 @@
 [![BarryYangi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BarryYangi&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div><img align="center" alt="GIF" src="./images/z.gif" width="100%" height="100%" /></div> -->
+### 最近Coding
+ <!-- waka-box start -->
+ <!-- waka-box end -->
 ### 最近在玩
  <!-- steam-box start -->
-#### <a href="https://gist.github.com/cebcc375aaa7333babf64dc321d27933" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-🎮 Apex Legends                     🕘 788 hrs 18 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 269 hrs 30 mins
-🎮 KovaaK's                         🕘 67 hrs 5 mins
-🎮 Forza Horizon 5                  🕘 57 hrs 39 mins
-🎮 Call of Duty®: Modern Warfare® II | Warzone™ 2.0 🕘 48 hrs 58 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
- 
+ <!-- steam-box end -->
