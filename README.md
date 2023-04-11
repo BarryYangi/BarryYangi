@@ -29,11 +29,11 @@
 ### 编程语言
 <div><img align="right" src="https://netease-recent-profile.vercel.app/?id=104990211&show_percent=1&size=60&title=最近循环"/></div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarryYangi&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarryYangi&langs_count=6&theme=transparent)
 
 ### Github 活跃度
 [![](https://activity-graph.herokuapp.com/graph?username=BarryYangi&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![BarryYangi's github stats](https://github-readme-stats.vercel.app/api?username=BarryYangi&show_icons=true&theme=tokyonight)
+![BarryYangi's github stats](https://github-readme-stats.vercel.app/api?username=BarryYangi&show_icons=true&theme=transparent)
 
 <!-- ### Github 贡献图
 [![BarryYangi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BarryYangi&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
