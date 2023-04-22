@@ -43,7 +43,7 @@
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/cebcc375aaa7333babf64dc321d27933" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 794 hrs 3 mins
+🎮 Apex Legends                     🕘 794 hrs 42 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 269 hrs 30 mins
 🎮 KovaaK's                         🕘 67 hrs 23 mins
 🎮 Forza Horizon 5                  🕘 57 hrs 39 mins
