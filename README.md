@@ -42,6 +42,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/barryyangi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/barryyangi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barryyangi&show_icons=true&locale=en&layout=compact" alt="barryyangi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barryyangi&show_icons=true&locale=en" alt="barryyangi" /></p>
