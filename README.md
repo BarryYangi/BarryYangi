@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [「关于证明我是一名 JS 程序员这件事」](https://www.barryi.me/posts/JsWork.html)
+- [「富豪谷底求翻身」](https://www.barryi.me/posts/UnderDog.html)
 - [一个访问全球互联网的“备用机”](https://www.barryi.me/posts/CloudflareZeroTrust.html)
 - [关于Linux内核](https://www.barryi.me/posts/LinuxKernel.html)
-- [Frontend-terminology](https://www.barryi.me/posts/frontend-terminology.html)
-- [我是如何解决 jsDelivr 在国内被污染的？](https://www.barryi.me/posts/jsDelivr.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
