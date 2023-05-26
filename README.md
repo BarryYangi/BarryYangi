@@ -26,9 +26,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [「关于证明我是一名 JS 程序员这件事」](https://www.barryi.me/posts/JsWork.html)
+- [生成一个有趣的链接](https://www.barryi.me/posts/eeeLink.html)
 - [「富豪谷底求翻身」](https://www.barryi.me/posts/UnderDog.html)
 - [一个访问全球互联网的“备用机”](https://www.barryi.me/posts/CloudflareZeroTrust.html)
-- [关于Linux内核](https://www.barryi.me/posts/LinuxKernel.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
