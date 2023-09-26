@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [使Windows  Terminal变得更易用（v2）](https://www.barryi.me/posts/wtv2.html)
-- [「关于证明我是一名 JS 程序员这件事」](https://www.barryi.me/posts/JsWork.html)
-- [生成一个有趣的链接](https://www.barryi.me/posts/eeeLink.html)
-- [「富豪谷底求翻身」](https://www.barryi.me/posts/UnderDog.html)
+- [第17期 - 温澜潮生](https://xlog.app/api/redirection?characterId=52760&noteId=306)
+- [第16期 - 白衣卿相](https://xlog.app/api/redirection?characterId=52760&noteId=271)
+- [第15期 - 流绪微梦](https://xlog.app/api/redirection?characterId=52760&noteId=202)
+- [第14期 - 兰因絮果](https://xlog.app/api/redirection?characterId=52760&noteId=120)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
