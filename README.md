@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI 是一种思考力的资源](https://xlog.app/api/redirection?characterId=52760&noteId=483)
 - [第19期 - 怀瑾握瑜](https://xlog.app/api/redirection?characterId=52760&noteId=324)
 - [第18期 - 云窗月户](https://xlog.app/api/redirection?characterId=52760&noteId=320)
 - [第17期 - 温澜潮生](https://xlog.app/api/redirection?characterId=52760&noteId=306)
-- [第16期 - 白衣卿相](https://xlog.app/api/redirection?characterId=52760&noteId=271)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
