@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/barryyangi" target="blank"><img src="https://img.shields.io/twitter/follow/barryyangi?logo=twitter&style=for-the-badge" alt="barryyangi" /></a> </p>
 
-- 🔭 I’m currently studying in **Wuhan**
+- 🔭 I’m currently working in **Chengdu**
 
 - 🌱 I’m currently learning **react,next.js,vue**
 
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://i.yct.ee](https://i.yct.ee)
 
-- 📝 I regularly write articles on [https://www.barryi.me/](https://www.barryi.me/)
+- 📝 I regularly write articles on [https://barry.ee/](https://barry.ee/)
 
 - 📫 How to reach me **barry@yct.ee**
 
-- 📄 Know about my experiences [https://www.barryi.me/personal/about/](https://www.barryi.me/personal/about/)
+- 📄 Know about my experiences [https://barry.ee/personal/about/](https://www.barry.ee/personal/about/)
 
 - ⚡ Fun fact **A funny boy.**
 
