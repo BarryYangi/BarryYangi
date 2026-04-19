@@ -2,7 +2,7 @@
   <samp>
     <a href="https://barry.ee/writing">writing</a> ·
     <a href="https://barry.ee/craft">craft</a> ·
-    <a href="https://barry.ee/gallery">gallery</a> ·
+    <a href="https://barry.afilmory.art/">gallery</a> ·
     <a href="https://barry.ee/about">about</a>
   </samp>
 </p>
