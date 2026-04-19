@@ -25,10 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [AI 是一种思考力的资源](https://xlog.app/api/redirection?characterId=52760&noteId=483)
-- [第19期 - 怀瑾握瑜](https://xlog.app/api/redirection?characterId=52760&noteId=324)
-- [第18期 - 云窗月户](https://xlog.app/api/redirection?characterId=52760&noteId=320)
-- [第17期 - 温澜潮生](https://xlog.app/api/redirection?characterId=52760&noteId=306)
+- [Claude 账号保姆级指北：从注册到保号](https://barry.ee/writing/claude-guide/)
+- [使Windows  Terminal变得更易用（v2）](https://barry.ee/writing/wtv2/)
+- [「关于证明我是一名 JS 程序员这件事」](https://barry.ee/writing/jswork/)
+- [生成一个有趣的链接](https://barry.ee/writing/eeelink/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
